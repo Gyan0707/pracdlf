@@ -41,6 +41,9 @@ section{
   padding: 20px;
   border-radius: 20px;
 }
+.heading {
+  color: #1BAE70
+}
 hr {
   width: 20%;
   margin-left: auto;
@@ -66,7 +69,12 @@ hr {
 .list{
   font-weight: 500;
 }
-
+.call-01{
+  background-color: green;
+}
+.call-main{
+  padding: 60px 0
+}
 
 
 
