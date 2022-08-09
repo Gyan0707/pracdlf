@@ -61,7 +61,7 @@ hr {
 }
 .list hr{
   width: 200px;
- border: 1px solid #000;
+ border: 1px solid black;
  opacity: 1;
  margin: 10px 0;
  
@@ -72,9 +72,20 @@ hr {
 .call-01{
   background-color: green;
 }
-.call-main{
+.main{
   padding: 60px 0
 }
+.paragraph{
+  padding: 0 20%;
+  text-align: center
+}
+tr{
+  color: green;
+}
+.fa-star{
+ color: #b7dd29;
+}
+
 
 
 
